@@ -4,13 +4,13 @@
 
 Thanks for your interest in this project!
 
-❤️ **Matt**
+❤️ **Ramesh**
 
 ---
 
 Translate idiomatic Go into concise Javascript that works in every browser. Use Go's type system and world-class tooling to build large web applications with confidence.
 
-Visit [mat.tm/joy](https://mat.tm/joy) to learn more about Joy.
+<!-- Visit [mat.tm/joy](https://mat.tm/joy) to learn more about Joy. -->
 
 ---
 
@@ -29,10 +29,10 @@ Visit [mat.tm/joy](https://mat.tm/joy) to learn more about Joy.
 **1. Install Joy:**
 
 ```sh
-curl -sfL https://raw.githubusercontent.com/matthewmueller/joy/master/install.sh | sh
+curl -sfL https://raw.githubusercontent.com/pchvramesh/joy/master/install.sh | sh
 ```
 
-> Note: you can also download from the [releases tab](https://github.com/matthewmueller/joy/releases).
+> Note: you can also download from the [releases tab](https://github.com/matthewmueller/joy/tags).
 
 **2. Create a `main.go` file with the following code:**
 
@@ -58,7 +58,7 @@ joy main.go
 
 ## Examples
 
-Visit https://mat.tm/joy/#examples or peruse the [test suite](https://github.com/matthewmueller/joy/tree/master/testdata).
+<!-- Visit https://mat.tm/joy/#examples or peruse the [test suite](https://github.com/matthewmueller/joy/tree/master/testdata). -->
 
 ## Using the CLI
 
@@ -102,7 +102,7 @@ So happy to hear you're interested in contributing! Here's a quick rundown of ho
 
 1. Make sure you have the Go environment setup on your computer. There are quite a few better resources online on how to do that
 
-2. `go get -u -v github.com/matthewmueller/joy/...` to install the compiler from source
+2. `go get -u -v github.com/pchvramesh/joy/...` to install the compiler from source
 
 3. `go test -v` to run all the tests
 
@@ -119,14 +119,14 @@ So happy to hear you're interested in contributing! Here's a quick rundown of ho
 
 If you have any further questions, [open an issue](github.com/matthewmueller/joy/issues) or reach out to me on [twitter](https://twitter.com/mattmueller).
 
-## FAQ
+<!-- ## FAQ
 
-Visit https://mat.tm/joy/#faq to view the FAQ.
+Visit https://mat.tm/joy/#faq to view the FAQ. -->
 
 ## More Links
 
 - Run `joy help` to see what else Joy can do for you
-- Visit mat.tm/joy to read more about Joy's origins
+<!-- - Visit mat.tm/joy to read more about Joy's origins -->
 - Chat with us in **#joy-compiler** on Slack at gophers.slack.com
-- Star github.com/matthewmueller/joy to follow the development
-- Follow twitter.com/mattmueller for project updates
+- Star github.com/pchvramesh/joy to follow the development
+- Follow twitter.com/pchvramesh for project updates
